@@ -8,6 +8,8 @@ Official repo: https://github.com/google/filament
 
 > NOTE: Samples include binaries for macOs. For other platforms, you need to get binaries from https://github.com/google/filament/releases and set custom scripts (same as `make-assets.sh`).
 
+**Before run samples, you must launch `make-assets.sh` script to generate Filament resource files.**
+
 ## [Triangle tutorial](https://google.github.io/filament/webgl/tutorial_triangle.html)
 
 ![triangle.png](./assets/images/triangle.png)
