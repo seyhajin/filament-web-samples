@@ -12,15 +12,15 @@ Official repo: https://github.com/google/filament
 
 ## [Triangle tutorial](https://google.github.io/filament/webgl/tutorial_triangle.html)
 
-![triangle.png](./assets/images/triangle.png)
+![triangle.jpg](./assets/images/triangle.jpg)
 
 ## [Redball tutorial](https://google.github.io/filament/webgl/tutorial_redball.html)
 
-![redball.png](./assets/images/redball.png)
+![redball.jpg](./assets/images/redball.jpg)
 
 ## [Suzanne tutorial](https://google.github.io/filament/webgl/tutorial_suzanne.html)
 
-![suzanne.png](./assets/images/suzanne.png)
+![suzanne.jpg](./assets/images/suzanne.jpg)
 
 ## Dependencies
 
